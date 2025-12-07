@@ -1,5 +1,7 @@
 # 2D Flapping-Wing MAV + RL Control (PyTorch + Pygame)
 
+![til](./demo.gif)
+
 This project is a lightweight sandbox for experimenting with reinforcement learning on a **2D flapping-wing micro air vehicle (MAV)**. It includes:
 
 - A simplified flapping-wing physics model  
